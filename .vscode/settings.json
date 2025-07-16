@@ -1,0 +1,9 @@
+{
+    "python.languageServer": "Pylance",
+    "jupyter.askForKernelRestart": false,
+    "jupyter.interactiveWindow.textEditor.executeSelection": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.completeFunctionParens": true,
+    "jupyter.interactiveWindow.codeLens.enable": true
+}
